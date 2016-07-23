@@ -1,2 +1,2 @@
 from busybox
-cmd echo hw
+cmd echo hello world
